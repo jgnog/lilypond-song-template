@@ -15,6 +15,12 @@
   %ragged-last-bottom = ##f  % uncomment to have music fill the last page
 }
 
+% Includes
+% ========
+
+\include "definitions.ily"
+\include "voice.ily"
+\include "piano.ily"
 
 % Score
 % =====
